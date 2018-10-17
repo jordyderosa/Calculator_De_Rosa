@@ -1,0 +1,11 @@
+C:\Users\INGDEROSA\Desktop\calculator-test-master\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\INGDEROSA\Desktop\calculator-test-master\Calculator\bin\Debug\Calculator.exe.manifest
+C:\Users\INGDEROSA\Desktop\calculator-test-master\Calculator\bin\Debug\Calculator.application
+C:\Users\INGDEROSA\Desktop\calculator-test-master\Calculator\bin\Debug\Calculator.exe
+C:\Users\INGDEROSA\Desktop\calculator-test-master\Calculator\bin\Debug\Calculator.pdb
+C:\Users\INGDEROSA\Desktop\calculator-test-master\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\INGDEROSA\Desktop\calculator-test-master\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\INGDEROSA\Desktop\calculator-test-master\Calculator\obj\Debug\Calculator.exe.manifest
+C:\Users\INGDEROSA\Desktop\calculator-test-master\Calculator\obj\Debug\Calculator.application
+C:\Users\INGDEROSA\Desktop\calculator-test-master\Calculator\obj\Debug\Calculator.exe
+C:\Users\INGDEROSA\Desktop\calculator-test-master\Calculator\obj\Debug\Calculator.pdb
