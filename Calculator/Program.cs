@@ -50,20 +50,17 @@ namespace Calculator
             switch (caseSwitch)
             {
                 case "+":
-                    Console.WriteLine("Result=" + (int.Parse(f) + int.Parse(s)));
+                    Console.WriteLine("Result=" + (float.Parse(f) + float.Parse(s)));
                     break;
                 case "-":
-                    if (int.Parse(f) > int.Parse(s))
-                        Console.WriteLine("Result=" + (int.Parse(f) - int.Parse(s)));
-                    else
-                        Console.WriteLine("Result= -" + (int.Parse(s) - int.Parse(f)));
+                        Console.WriteLine("Result=" + (float.Parse(f) - float.Parse(s)));
                     break;
                 case "*":
-                    Console.WriteLine("Result=" + (int.Parse(f) * int.Parse(s)));
+                    Console.WriteLine("Result=" + (float.Parse(f) * float.Parse(s)));
                     break;
                 case "/":
-                    if (int.Parse(s) > 0)
-                        Console.WriteLine("Result=" + (int.Parse(f) / int.Parse(s)));
+                    if (int.Parse(s) != 0)
+                        Console.WriteLine("Result=" + (float.Parse(f) / float.Parse(s)));
                     else
                         Console.WriteLine("Second parameter should be grater than 0");
                     break;
